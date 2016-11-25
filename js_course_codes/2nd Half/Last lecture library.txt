@@ -1,0 +1,4 @@
+http://mootools.net/
+https://dojotoolkit.org/
+https://jquery.com/
+http://lokeshdhakar.com/projects/lightbox2/
